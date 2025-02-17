@@ -31,6 +31,8 @@ Based on the dashboard analysis, the following key observations and recommendati
 This analysis is licensed under the MIT License. 
 
 
+![Screenshot 2024-12-22 015234](https://github.com/user-attachments/assets/4babf85a-62d2-4426-ab5c-acc9f39fa893)
+
 
 
 
